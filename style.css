@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 80vw;
+    font-family: Whitney, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+
+
+.navbar {
+    display: flex;
+    height: 70px;
+
+}
+
+.navbar li {
+    list-style: none;
+    margin: 0 12px;
+}
+
+.left {
+    width: 50%;
+    height: 50vh;
+}
+
+.right {
+    width: 50%;
+    height: 61vh;
+}
+
+.section1 {
+    font-size: 2reem;
+
+}
+
+.logo {
+    font-size: 1.3rem;
+}
+
+.left img {
+    width: 150px;
+    margin-top: 10px;
+    padding: 0 128px;
+}
+
+.right img {
+
+    margin-top: 52px;
+    width: 319px;
+}
+
+.section2 h1 {
+    font-size: 2.5rem;
+}
+
+.section2 p {
+    padding: 0 8vw;
+    text-align: center;
+}
+
+.section2 {
+    padding: 73px
+}
+
+.box {
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(203, 100, 3);
+    text-align: center;
+    padding: 8px 0;
+    border-radius: 8px;
+}
+
+.box h2 {
+    font-size: 2em;
+    padding: 15px 0;
+
+}
+
+.highlited {
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+.box ul {
+    list-style: none;
+}
+
+.box ul li {
+    margin: 12px 2px;
+}
+
+.plantable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3 table {
+    width: 100%;
+    margin-bottom: 140px;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+.section3 table th {
+    width: 23vw;
+    border-bottom: 2px solid black;
+    padding: 15px 0;
+}
+
+.section3 table td {
+    border-bottom: 2px solid black;
+}
+
+.section3 h1 {
+    font-size: 2.5rem;
+}
+
+.section3 {
+    padding: 30px
+}
+
+footer {
+    padding: 23px;
+    text-align: center;
+    
+}
